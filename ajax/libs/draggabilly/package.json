@@ -1,0 +1,22 @@
+{
+  "name": "draggabilly",
+  "filename": "draggabilly.js",
+  "version": "1.0.2",
+  "description": "",
+  "homepage": "",
+  "keywords": [
+     "code",
+     "editor"
+ ],
+ "maintainers": [
+     {
+         "name": ""
+     }
+ ],
+ "repositories": [
+     {
+         "type": "git",
+         "url": ""
+     }
+ ]
+}
